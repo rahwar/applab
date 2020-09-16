@@ -1,0 +1,14 @@
+html{
+    scroll-behavior:smooth;
+}
+.btn1{
+    background-color: blue;
+    color: white;
+}
+.nav{
+    color: black;
+    padding:30px;
+}
+.footer{
+    color: white;
+}
